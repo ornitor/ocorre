@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=filename
+comment1.target=void\ initConfigApp(java.lang.String)
+comment2.params=
+comment2.target=void\ save()
+comment3.params=filename
+comment3.target=ConfigAppJson\ load(java.lang.String)
+comment4.params=
+comment4.target=ConfigAppJson\ loadDefault()
+numComments=5

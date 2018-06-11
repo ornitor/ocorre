@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=jsonString
+comment0.target=Dweet\ parse(java.lang.String)
+comment1.params=filename
+comment1.target=Dweet\ load(java.lang.String)
+comment2.params=file
+comment2.target=java.lang.String\ readFile(java.lang.String)
+comment3.params=jsons
+comment3.target=void\ printa(java.lang.String)
+comment4.params=novo
+comment4.target=void\ insert(Thing)
+numComments=5
